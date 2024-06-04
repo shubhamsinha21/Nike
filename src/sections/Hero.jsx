@@ -18,13 +18,13 @@ const Hero = () => {
 
       {/* section-left */}
       <div className='flex flex-col justify-center 
-      items-start relative w-full max-xl:padding-x pt-28 xl:w-2/5 '>
+      items-start w-full max-xl:padding-x pt-28 xl:w-2/5 '>
 
         <p className='text-xl font-montserrat text-white bg-coral-red border-[1px] 
         p-1 rounded-md border-red-400 animate-bounce drop-shadow-lg'>Our Summer Collection</p>
 
         <h1 className='mt-10 font-palanquin text-8xl font-bold max-sm:text-[72px] max-sm:leading-[82px]'>
-          <span className="xl:whitespace-nowrap relative z-10 pr-10 xl:bg-white">The New Arrival</span>
+          <span className="xl:whitespace-nowrap z-10 pr-10 xl:bg-white">The New Arrival</span>
           <br />
           <span className='text-coral-red mt-3 inline-block drop-shadow-lg'>Nike</span> Shoes
         </h1>

@@ -1,8 +1,9 @@
 const ServiceCard = ({ imgURL, label, subtext }) => {
   return (
     <div
-      className="shadow-3xl px-10 py-16 w-full rounded-3xl 
-    flex-1 sm:w-[350px] sm:min-w-[350px] "
+      className="shadow-2xl px-10 py-16 w-full rounded-3xl 
+    flex-1 sm:w-[350px] sm:min-w-[350px] hover:scale-105 
+    cursor-pointer hover:shadow-orange-300"
     >
       <div
         className="w-10 h-10 flex justify-center 
