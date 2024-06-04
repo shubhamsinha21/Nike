@@ -12,7 +12,7 @@ const App = () => {
        <Hero/>
       </section>
       <section className='padding'>
-       <PopularProducts/> Products
+       <PopularProducts/>
       </section>
       <section className='padding'>
         <SuperQuality/>
