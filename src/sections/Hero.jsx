@@ -26,7 +26,7 @@ const Hero = () => {
         <h1 className='mt-10 font-palanquin text-8xl font-bold max-sm:text-[72px] max-sm:leading-[82px]'>
           <span className="xl:whitespace-nowrap relative z-10 pr-10 xl:bg-white">The New Arrival</span>
           <br />
-          <span className='text-coral-red mt-3 inline-block'>Nike</span> Shoes
+          <span className='text-coral-red mt-3 inline-block drop-shadow-lg'>Nike</span> Shoes
         </h1>
         <p className='font-montserrat text-slate-gray leading-8 mt-6 mb-14 sm:max-w-sm'>Discover stylish Nike arrivals, quality comfort and innovation for your active life.</p>
         <Button label="Shop now" iconUrl={arrowRight} />
